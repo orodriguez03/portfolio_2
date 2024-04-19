@@ -2,6 +2,6 @@ Welcome to my portfolio! This website is done using GitHub. I found working on t
 # [Project 1: Sustainability Map]
 
 # [Crowdbuilding Project: Landscaping on Campus]
-![](images/IMG_1420.png)
+![](images/landscapingprint copy.png)
 A Canva visual for the Landscaping on Campus presentation. This is a graphic intended to promote a future meeting. It was made to gather and spread information about our ideas. 
 
