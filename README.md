@@ -1,3 +1,5 @@
+# Second Round Portfolio
+
 Welcome to my portfolio! This website is done using GitHub. I enjoyed coding the sustainability map so I wanted to continue doing web development. These exercises allowed me to showcase my technical, attention to detail, and problem solving skills. Aside from that, I'm currently applying for internships and jobs right now so I started to showcase my code on GitHub for employers to see. Below is project 1, the crowdbuilding project, and more.
 
 # [Project 1: Sustainability Map](http://sustainabilitymap.hamline.edu/)
@@ -8,7 +10,7 @@ To update the map, a API key was added. The website was because made in 2017, be
 ![](images/key.png)
 
 ### Food Resource Center
-Now I transitioned away from Brackets and downloaded Visual Studio Code. VSCode is where the HTML, CSS, and JavaScript file were edited in. The first three location that I added were off campus parks. And the last location I added was the Food Resource Center. I wanted to highlight the FRC because It used Nasrudin's report. The HTML file was used to add in the text and images. The CSS file allowed me to re size and format the pictures provided to me. And the JavaScript code is where I spent most of the time in. Here I added in the pin point marker, next and previous buttons, and the hover label. To achieve this I refrenced the code that was used for the other locations. Below is the html lines of the FRC.
+Now I transitioned away from Brackets and downloaded Visual Studio Code. VSCode is where I was able to edit the HTML, CSS, and JavaScript file. The first three location that I added were off campus parks. And the last location I added was the Food Resource Center. I wanted to highlight the FRC because It used Nasrudin's report. The HTML file was used to add in the text and images. The CSS file allowed me to re size and format the pictures provided to me. And the JavaScript code is where I spent most of the time in. Here I added in the pin point marker, next and previous buttons, and the hover label. To achieve this I refrenced the code that was used for the other locations. Below is the html lines of the FRC.
 ![](images/frccode.png)
 
 ### Google Form and Slight Website Updates
