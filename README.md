@@ -14,7 +14,7 @@ Now I transitioned away from Brackets and downloaded Visual Studio Code. VSCode 
 
 ### Google Form and Slight Website Updates
 To involve the community I created a [Google form](https://docs.google.com/forms/d/e/1FAIpQLScY8s0uGz68mCuiPU6TVUTl2Tzr64m2JJhRn298NZqpELA0ng/viewform), where one could add a location. I added this form to the website, as well. Aside from updated the "about the map" section. I included that this map recently went through updates.
-![](images/websiteupdate.png)
+![](images/images/websiteupdate.png)
 
 # [Crowdbuilding Project: Landscaping on Campus]
 A Canva visual for the Landscaping on Campus presentation. This is a graphic intended to promote a future meeting. 
