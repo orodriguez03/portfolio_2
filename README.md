@@ -1,6 +1,6 @@
 # Second Round Portfolio
 
-Welcome to my portfolio! This website is done using GitHub. I enjoyed coding the sustainability map so I wanted to continue doing web development. These exercises allowed me to showcase my technical, attention to detail, and problem solving skills. Aside from that, I'm currently applying for internships and jobs right now so I started to showcase my code on GitHub for employers to see. Below is project 1, the crowdbuilding project, and more.
+Welcome to my portfolio! This website is done using GitHub. I enjoyed coding the sustainability map so I wanted to continue doing web development. These exercises allowed me to showcase my technical, attention to detail, and problem solving skills. Below is project 1, the crowdbuilding project, and more.
 
 # [Project 1: Sustainability Map](http://sustainabilitymap.hamline.edu/)
 The sustainability map is a resource where one access sustainable on and off campus locations. 
@@ -14,6 +14,8 @@ Now I transitioned away from Brackets and downloaded Visual Studio Code. VSCode 
 ![](images/frccode.png)
 
 ### Google Form and Slight Website Updates
+To add community involvement I created a [Google form](https://docs.google.com/forms/d/e/1FAIpQLScY8s0uGz68mCuiPU6TVUTl2Tzr64m2JJhRn298NZqpELA0ng/viewform) where one could add a location. I added this form to the website and I update the "about this map" section. I included that this map recently underwent updates.
+![](images/websiteupdate.png)
 
 # [Crowdbuilding Project: Landscaping on Campus]
 A Canva visual for the Landscaping on Campus presentation. This is a graphic intended to promote a future meeting. 
