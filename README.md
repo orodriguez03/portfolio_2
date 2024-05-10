@@ -3,7 +3,7 @@
 Welcome to my portfolio! This website is done using GitHub. I enjoyed coding the sustainability map so I wanted to continue doing web development. These exercises allowed me to showcase my technical, attention to detail, and problem solving skills. Below is project 1, the crowdbuilding project, and more.
 
 # [Project 2: Green Space Zine](https://docs.google.com/presentation/d/1-at4MB6Sugn69OoqHBAPHkQQCzK20WRIxTkfcpG5gUM/edit?usp=sharing)
-![](images1/zine.png)
+![](images/images1/zine.png)
 “Is there a place that makes you feel whole or revived in some way? How often are you able to inhibit that space?” (209). In my zine, I wanted to communicate that this place is where one can bike, walk, or take time near the water.
 
 # [Project 1: Sustainability Map](http://sustainabilitymap.hamline.edu/)
